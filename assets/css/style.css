@@ -13,3 +13,6 @@ form ul{
 form ul label{
 	margin-bottom: 0px;
 }
+table td.action{
+	width: 130px;
+}
