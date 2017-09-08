@@ -1,0 +1,15 @@
+.box{
+	margin:30px 0;
+}
+h1.title{
+	margin-bottom: 20px;
+	font-size: 30px;
+}
+form ul{
+	list-style: none;
+	margin:0px;
+	padding: 0px;
+}
+form ul label{
+	margin-bottom: 0px;
+}
